@@ -1,0 +1,10 @@
+<Field
+  ID="{a4440c39-ca2c-43c9-a2d1-1073ed50af71}"
+  Name="StatusComment"
+  StaticName="StatusComment"
+  DisplayName="Status Comment"
+  Type="Text"
+  Required="FALSE"
+  Description="Please insert a comment for the finalized status, with the results of..."
+  Group="Forms Tester">
+</Field>
